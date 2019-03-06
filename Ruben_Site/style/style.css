@@ -1,0 +1,22 @@
+#bigPic {
+  background-image: url("../images/coverPic.jpg");
+  background-size: cover;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  padding-top: 200px;
+  padding-bottom: 190px;
+}
+
+#imgText {
+  position: center;
+  color: black;
+  padding-left: 60px;
+  font-size: 90px;
+}
+
+h2{
+
+}
